@@ -1,0 +1,2 @@
+0 * * * * python /home/jack/smartHome/tempSensor/tempReading.py > /dev/null
+30 * * * * python /home/jack/smartHome/tempSensor/tempReading.py > /dev/null
